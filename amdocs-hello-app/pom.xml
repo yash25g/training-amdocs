@@ -50,8 +50,8 @@
                 </execution>
               </executions>  
             </plugin>
-           </build>
-	  </plugins>     
+	 </plugins> 	   
+        </build>	      
       </profile>
     <profile>
           <id>install</id>
